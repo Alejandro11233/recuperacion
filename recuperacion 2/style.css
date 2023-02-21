@@ -1,0 +1,21 @@
+.texto1{
+    color: blue;
+    background-color: white;
+}
+
+body{background-color: sandybrown;}
+
+.titulo{
+    color: green;
+    background-color: aqua;
+}
+.texto2{
+    color: red;
+    background-color: aquamarine;
+}
+
+.foto{
+    position: relative;
+    right: -10px; ;
+    top: -10px; ;
+}
